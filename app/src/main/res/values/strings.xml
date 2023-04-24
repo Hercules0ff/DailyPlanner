@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DailyPlanner</string>
+    <string name="app_title">Day Planner</string>
+    <string name="event1">Event 1</string>
+    <string name="event2">Event 2</string>
+    <string name="event3">Event 3</string>
+    <string name="ten_hour">10:00</string>
+    <string name="new_event">New Event</string>
+    <string name="event_name">Event name:</string>
+    <string name="date">Date:</string>
+    <string name="description">Description:</string>
+    <string name="event_start_time">Event start time:</string>
+    <string name="event_end_time">Event end time:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
